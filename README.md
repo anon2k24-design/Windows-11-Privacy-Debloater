@@ -1,3 +1,5 @@
+DONATE HERE: https://www.paypal.com/donate/?business=UNP6WN3E95EAL&no_recurring=0&item_name=unemployment+fund+pls&currency_code=USD
+
 # Privacy Debloater
 
 A lightweight Windows debloating script focused on privacy, telemetry reduction, and removing unwanted default apps.
